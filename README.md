@@ -231,9 +231,6 @@ scaler.update()
 | Model | Avg PSNR | Avg SSIM |
 |---|---|---|
 | **Attention ResUNet (this work)** | **31.489** | **0.948** |
-| Attention UNet | 31.147 | 0.947 |
-| UNet | 30.988 | 0.944 |
-| CNN | 25.530 | 0.920 |
 
 ---
 
