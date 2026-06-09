@@ -266,8 +266,6 @@ tensorboard
 
 ## Competition
 
-**The Single Photon Challenge** is a benchmark organized by researchers from UW-Madison, Portland State University, Purdue University, CMU, and the US Naval Research Lab, co-located with ICCV 2025.
-
 * Website: https://singlephotonchallenge.com
 * Dataset: https://singlephotonchallenge.com/download
 
